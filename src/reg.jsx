@@ -16,8 +16,11 @@ function Reg() {
     const submit = async () => {
         try {
             //  const res=await axios.post("http://localhost:8080/reg",data)
+
+            // IMPORTANT: Replace this URL with your ACTUAL deployed Render backend URL once it's live!
+            // Example: "https://your-backend-app-name.onrender.com/register"
             const res = await axios.post(
-                "https://cabsystemsms-1.onrender.com/register",
+                "https://ttbdemoh33-1.onrender.com/register",
                 data
             )
             alert(res.data)
