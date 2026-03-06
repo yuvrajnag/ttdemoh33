@@ -16,11 +16,11 @@ function TeacherDashboard() {
                         <div style={{ fontSize: '0.8rem', color: '#888' }}>
                             <div style={{ display: 'flex', justifyContent: 'space-between', marginBottom: '5px' }}>
                                 <span>TOTAL STUDENTS:</span>
-                                <span>128</span>
+                                <span>0</span>
                             </div>
                             <div style={{ display: 'flex', justifyContent: 'space-between' }}>
                                 <span>ACTIVE NOW:</span>
-                                <span style={{ color: '#fff' }}>42</span>
+                                <span style={{ color: '#fff' }}>0</span>
                             </div>
                         </div>
                     </div>

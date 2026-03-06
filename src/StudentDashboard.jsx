@@ -13,15 +13,15 @@ function StudentDashboard() {
                 <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '20px' }}>
                     <div className="glass-panel" style={{ padding: '20px', textAlign: 'center' }}>
                         <h3 style={{ fontSize: '0.9rem' }}>Active Courses</h3>
-                        <p style={{ fontSize: '2rem', marginTop: '10px' }}>04</p>
+                        <p style={{ fontSize: '2rem', marginTop: '10px' }}>00</p>
                     </div>
                     <div className="glass-panel" style={{ padding: '20px', textAlign: 'center' }}>
                         <h3 style={{ fontSize: '0.9rem' }}>Assignments Due</h3>
-                        <p style={{ fontSize: '2rem', marginTop: '10px' }}>02</p>
+                        <p style={{ fontSize: '2rem', marginTop: '10px' }}>00</p>
                     </div>
                     <div className="glass-panel" style={{ padding: '20px', textAlign: 'center' }}>
                         <h3 style={{ fontSize: '0.9rem' }}>Overall Rank</h3>
-                        <p style={{ fontSize: '2rem', marginTop: '10px' }}>A+</p>
+                        <p style={{ fontSize: '2rem', marginTop: '10px' }}>N/A</p>
                     </div>
                 </div>
 
